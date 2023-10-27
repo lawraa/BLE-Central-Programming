@@ -7,6 +7,7 @@ This repository contains a Python program, `ble_scan_connect.py`, designed to co
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Explanation](#explanation)
+- [Collaborators](#Collaborators)
 
 
 ## Introduction
@@ -29,3 +30,8 @@ The ble_scan_connect.py program uses the bluepy library to interact with BLE dev
 - After connecting, it retrieves services and characteristics from the BLE device.
 - It reads the CCCD value and changes it to enable notifications.
 - Finally, it waits for notifications from the device and prints them.
+
+## Collaborators
+
+Partner that contributed to this project:
+- [Lichun Lu](https://github.com/lichun-19)
